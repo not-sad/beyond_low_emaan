@@ -185,6 +185,8 @@ The 58 responses received the following decisions:
 
 Across the evaluation, 54 of 58 responses were marked acceptable. The baseline had two more acceptable responses than the faith-aware condition. These are descriptive counts from this sample, not evidence of a statistically significant difference.
 
+![Decisions by condition](results/decisions_by_condition.png)
+
 ### 2. Critical flags
 
 Four responses were recorded with critical flags:
@@ -215,6 +217,8 @@ The following are **approximate values read from the generated chart**, not reco
 
 **Interpret with caution:** Islamic-guidance and religious-accuracy means are particularly unreliable because they are based on very few applicable responses and some rows have known scoring inconsistencies. Exact raw scores should be used to regenerate these results before publication.
 
+![Mean rubric scores by dimension and condition](results/scores_by_condition.png)
+
 ### 4. User preference
 
 Approximate `user_preference` means from the generated chart:
@@ -226,6 +230,8 @@ Approximate `user_preference` means from the generated chart:
 | `islamic_implied` | ~2.8 | ~2.4 | Largest observed gap; B scored lower in this group. |
 
 These figures are approximate and should be verified against the raw data. The project notes state that neither condition injected religion when the user explicitly requested none.
+
+![User preference scores by requested guidance](results/user_preference.png)
 
 ### 5. Contrasting examples
 
