@@ -258,7 +258,8 @@ The evaluation notes highlight cases in both directions:
 
 
 # A response I liked, and what I found when I checked it
-![Uploading image.png…]()
+<img width="896" height="338" alt="image" src="https://github.com/user-attachments/assets/bbf2605a-94a7-4d42-9a3c-6a96ab9e756c" />
+
 
 
 ## Findings and interpretation
