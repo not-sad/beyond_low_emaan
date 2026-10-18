@@ -347,4 +347,4 @@ This project is an exploratory model evaluation, not a religious ruling service,
 
 ---
 
-*This README distinguishes recorded results from interpretations and proposed future work. Approximate chart values and flagged scoring inconsistencies should be verified against the raw evaluation data before being treated as final.*
+
