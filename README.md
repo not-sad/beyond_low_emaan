@@ -39,7 +39,7 @@ The evaluation contains **29 scenarios and 58 responses**—one response per sce
 
 ### Why I chose this problem
 
-My motivation came from my own experience with faith and emotional distress. During difficult periods, practising Islam gave me a sense of connection with God: the feeling that I could express what I was going through, be heard, and find comfort in trusting God. The concept of *tawakkul*—reliance upon God—helped me think about patience, uncertainty, and outcomes that may not unfold as hoped.
+My motivation came from my own experience with faith and emotional distress. During difficult periods, practising Islam gave me a sense of connection with God: the feeling that I could express what I was going through, be heard, and find comfort in trusting God. The concept of *tawakkul*,reliance upon God ,helped me think about patience, uncertainty, and outcomes that may not unfold as hoped.
 
 But understanding tawakkul does not automatically make overthinking, anxiety, homesickness, or uncertainty disappear. When someone continues to struggle despite trying to be patient, they may start wondering whether their distress means they have insufficient tawakkul or weak imaan. Advice intended to comfort can unintentionally deepen that self-blame if it treats emotional difficulty as a measure of faith.
 
@@ -200,8 +200,6 @@ Four responses were recorded with critical flags:
 | R045 | B — Faith-aware | C4 | Q16 — growth mindset |
 
 These flags are reproduced from the evaluation summary. Because the project notes identify possible inconsistencies between some assigned flags and the flag definitions, they should be audited against the original prompts and responses before being treated as verified failure classifications.
-
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/657b9a05-7d02-4bd6-b191-ba766d8fda7b" />
 
 
 ### 3. Mean scores by condition
