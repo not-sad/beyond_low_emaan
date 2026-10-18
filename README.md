@@ -24,6 +24,7 @@ The evaluation contains **29 scenarios and 58 responses**—one response per sce
 ## Path forward (untested)
 
 -My results showed that the model generally handled the scenarios reasonably well, but the faith-aware prompt did not consistently perform better than the baseline. The biggest difference appeared in cases where the user’s need for Islamic guidance was implied rather than explicitly stated. I would like to explore whether grounding the model’s responses in a small set of verified Quranic and hadith passages could make its religious guidance more reliable.
+
 -I think this could help because being supportive is not just about giving religious advice, but about knowing when it is appropriate and making sure that advice is accurate. I have not tested this approach yet. To evaluate it, I would run the same 29 scenarios with verified passages provided to the model and compare the results with my existing evaluation, particularly for religious accuracy, emotional support, and user preference.
 
 ---
