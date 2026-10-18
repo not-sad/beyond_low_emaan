@@ -168,23 +168,6 @@ The flag definitions should be checked against the assigned flags in the early r
 
 ## Workflow
 
-```mermaid
-flowchart TD
-    A["Lived experience and identified blind spot"] --> B["Design 29 scenarios"]
-    B --> C["Qwen3-4B-Instruct-2507"]
-    C --> D["Condition A: user message only"]
-    C --> E["Condition B: faith-aware system prompt"]
-    D --> F["29 baseline responses"]
-    E --> G["29 faith-aware responses"]
-    F --> H["Shuffle and blind 58 responses"]
-    G --> H
-    H --> I["Score eight evaluation dimensions"]
-    I --> J["Check critical-failure flags"]
-    J --> K["Compare conditions and preference groups"]
-    K --> L["Report findings and limitations"]
-    L --> M["Propose verified-passage grounding"]
-```
-
 *Figure 1. Workflow for comparing baseline and faith-aware prompting.*
 <img width="1116" height="2216" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/734392f6-da39-4bb2-9559-25463f98f145" />
 
