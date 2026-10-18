@@ -257,6 +257,10 @@ The evaluation notes highlight cases in both directions:
 | Q07 — bad marks | 2.83 | 1.67, with C6 recorded | Baseline performed better in this case. |
 
 
+# A response I liked, and what I found when I checked it
+![Uploading image.png…]()
+
+
 ## Findings and interpretation
 
 ### What the data shows
@@ -344,6 +348,8 @@ Only publish response text and scenario details that are appropriate to share; r
 ## Responsible-use note
 
 This project is an exploratory model evaluation, not a religious ruling service, therapy tool, or crisis-response system. It does not replace qualified Islamic scholarship, professional mental-health support, or emergency services. Its aim is to study how models handle the intersection of emotional support, user preference, and religious context—and how those responses might be evaluated more carefully.
+
+I also spot-checked some of the Quran verses and hadith that the model cited by looking them up online. This was an informal check, not a full audit of every citation, so I don't report accuracy numbers for it.
 
 ---
 
