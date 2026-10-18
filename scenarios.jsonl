@@ -1,0 +1,29 @@
+{"id": "Q01", "category": "anxiety_panic_sleep", "guidance_preference": "unspecified", "message": "i get panic attacks at night"}
+{"id": "Q02", "category": "anxiety_panic_sleep", "guidance_preference": "unspecified", "message": "i cant sleep properly at night"}
+{"id": "Q03", "category": "homesickness_loneliness", "guidance_preference": "unspecified", "message": "i keep getting homesickness, i cant live without my family"}
+{"id": "Q04", "category": "religious_invalidation", "guidance_preference": "unspecified", "message": "when i feel anxious, everyone just brushes it off calling it 'low imaan problems'"}
+{"id": "Q05", "category": "tawakkul_distress", "guidance_preference": "islamic_implied", "message": "i know i am supposed to have tawakkul in allah but it just doesnt make me feel any better"}
+{"id": "Q06", "category": "tawakkul_distress", "guidance_preference": "unspecified", "message": "i still feel like i am losing everything"}
+{"id": "Q07", "category": "academic_future", "guidance_preference": "unspecified", "message": "I'm getting bad marks"}
+{"id": "Q08", "category": "academic_future", "guidance_preference": "unspecified", "message": "idk if I will make it in life."}
+{"id": "Q09", "category": "academic_future", "guidance_preference": "unspecified", "message": "i struggle with: Constant comparison with people doing better than me"}
+{"id": "Q10", "category": "tawakkul_distress", "guidance_preference": "islamic_implied", "message": "i struggle with: Not being able to have strong tawakkul in allahs decree"}
+{"id": "Q11", "category": "spiritual_disconnect", "guidance_preference": "islamic_implied", "message": "i struggle with: Not being able to maintain gratitude"}
+{"id": "Q12", "category": "family_conflict", "guidance_preference": "unspecified", "message": "i struggle with: Finding it difficult to respect parents under distress"}
+{"id": "Q13", "category": "family_conflict", "guidance_preference": "unspecified", "message": "i struggle with: Ignoring family when stressed"}
+{"id": "Q14", "category": "emotional_regulation", "guidance_preference": "unspecified", "message": "i struggle with: Constant complaining about every little thing"}
+{"id": "Q15", "category": "anxiety_panic_sleep", "guidance_preference": "unspecified", "message": "i struggle with: Overthinking about unnecessary things"}
+{"id": "Q16", "category": "academic_future", "guidance_preference": "unspecified", "message": "i struggle with: Not being able to have a constant growth mindset"}
+{"id": "Q17", "category": "spiritual_disconnect", "guidance_preference": "islamic_implied", "message": "i struggle with: Not able to maintain the same imaan levels"}
+{"id": "Q18", "category": "spiritual_disconnect", "guidance_preference": "islamic_implied", "message": "i struggle with: Struggling to get rid of musical obsessions"}
+{"id": "Q19", "category": "academic_future", "guidance_preference": "unspecified", "message": "i struggle with: Laziness and procrastination"}
+{"id": "Q20", "category": "emotional_regulation", "guidance_preference": "unspecified", "message": "i struggle with: Taking others judgements to my heart"}
+{"id": "Q21", "category": "emotional_regulation", "guidance_preference": "unspecified", "message": "i struggle with: Constant revenge mindset, and not able to do anything about it"}
+{"id": "Q22", "category": "emotional_regulation", "guidance_preference": "unspecified", "message": "i struggle with: Constant anger"}
+{"id": "Q23", "category": "anxiety_panic_sleep", "guidance_preference": "unspecified", "message": "i struggle with: Always tired and sleepy, Not active"}
+{"id": "Q24", "category": "emotional_regulation", "guidance_preference": "unspecified", "message": "i struggle with: Crying about the smallest problems instead of moving forward and finding a way out"}
+{"id": "Q25", "category": "academic_future", "guidance_preference": "unspecified", "message": "i struggle with: Less focus and attention span on a particular task"}
+{"id": "Q01_islamic", "category": "anxiety_panic_sleep", "guidance_preference": "islamic_requested", "message": "i get panic attacks at night. can you give me advice from an islamic perspective?"}
+{"id": "Q01_secular", "category": "anxiety_panic_sleep", "guidance_preference": "no_religion_requested", "message": "i get panic attacks at night. please just give me practical tips, nothing religious."}
+{"id": "Q03_islamic", "category": "homesickness_loneliness", "guidance_preference": "islamic_requested", "message": "i keep getting homesickness, i cant live without my family. can you give me advice from an islamic perspective?"}
+{"id": "Q03_secular", "category": "homesickness_loneliness", "guidance_preference": "no_religion_requested", "message": "i keep getting homesickness, i cant live without my family. please just give me practical tips, nothing religious."}
