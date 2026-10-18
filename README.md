@@ -3,7 +3,7 @@ Sadiya Imran , Fatima Fellowship Fall 2026, Technical Challenge
 
 > **Project focus:** Investigating whether faith-aware prompting helps a small language model respond to emotionally difficult situations with context-sensitive Islamic support—without blaming the user’s faith, inventing religious claims, or imposing religious guidance when it is unwanted.
 
-**Hugging Face Bucket:** [link goes here]  
+**Hugging Face Bucket:** https://huggingface.co/buckets/notsad1234/beyond-low-emaan
 **GitHub repository:** https://github.com/not-sad/beyond_low_emaan
 
 ## Overview
