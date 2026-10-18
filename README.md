@@ -186,6 +186,7 @@ flowchart TD
 ```
 
 *Figure 1. Workflow for comparing baseline and faith-aware prompting.*
+<img width="1116" height="2216" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/734392f6-da39-4bb2-9559-25463f98f145" />
 
 ## Results
 
