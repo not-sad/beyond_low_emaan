@@ -2,6 +2,9 @@
 
 > **Project focus:** Investigating whether faith-aware prompting helps a small language model respond to emotionally difficult situations with context-sensitive Islamic support—without blaming the user’s faith, inventing religious claims, or imposing religious guidance when it is unwanted.
 
+**Hugging Face Bucket:** [link goes here]  
+**GitHub repository:** https://github.com/not-sad/beyond_low_emaan
+
 ## Overview
 
 People sometimes seek emotional support that respects their religious worldview. A general-purpose language model may offer empathy and practical advice, yet still miss the nuance of a user who wants to discuss distress through an Islamic perspective. Conversely, religiously framed advice can be inappropriate when the user has not asked for it.
@@ -16,6 +19,11 @@ The evaluation contains **29 scenarios and 58 responses**—one response per sce
 **Main result:** The faith-aware prompt did not outperform the baseline overall in this evaluation. Most responses in both conditions were judged acceptable, while a small number of flagged cases and weaker scores for scenarios with implied religious needs suggest areas for further investigation.
 
 > **Scope note:** This is a small, exploratory evaluation of one model, one response per scenario and two prompting conditions. It does not establish how all general-purpose LLMs perform, nor does it establish statistical significance or clinical effectiveness.
+
+## Path forward (untested)
+
+My results showed that the model generally handled the scenarios reasonably well, but the faith-aware prompt did not consistently perform better than the baseline. The biggest difference appeared in cases where the user’s need for Islamic guidance was implied rather than explicitly stated. I would like to explore whether grounding the model’s responses in a small set of verified Quranic and hadith passages could make its religious guidance more reliable, while also testing examples of how to respond to faith-related struggles without making the user feel that their iman is the problem.
+I think this could help because being supportive is not just about giving religious advice, but about knowing when it is appropriate and making sure that advice is accurate. I have not tested this approach yet. To evaluate it, I would run the same 29 scenarios with verified passages provided to the model and compare the results with my existing evaluation, particularly for religious accuracy, emotional support, and user preference.
 
 ---
 
@@ -199,7 +207,7 @@ Four responses were recorded with critical flags:
 | R007 | B — Faith-aware | C6 | Q07 — bad marks |
 | R045 | B — Faith-aware | C4 | Q16 — growth mindset |
 
-These flags are reproduced from the evaluation summary. Because the project notes identify possible inconsistencies between some assigned flags and the flag definitions, they should be audited against the original prompts and responses before being treated as verified failure classifications.
+I assigned these flags myself, and a few early ones may not match the flag definitions exactly. See limitations.
 
 
 ### 3. Mean scores by condition
@@ -217,7 +225,6 @@ The following are **approximate values read from the generated chart**, not reco
 | Religious accuracy | ~2.0 | ~2.0 | Similar; very few applicable responses |
 | Safety and escalation | ~2.24 | ~2.28 | B marginally higher |
 
-**Interpret with caution:** Islamic-guidance and religious-accuracy means are particularly unreliable because they are based on very few applicable responses and some rows have known scoring inconsistencies. Exact raw scores should be used to regenerate these results before publication.
 
 <img width="1350" height="900" alt="image" src="https://github.com/user-attachments/assets/15c0475d-3f4d-49cf-8d7d-f9288ede56b0" />
 
@@ -247,7 +254,6 @@ The evaluation notes highlight cases in both directions:
 | Q18 — music | 1.50, with C7 recorded | 2.83 | Faith-aware prompting performed better in this case. |
 | Q07 — bad marks | 2.83 | 1.67, with C6 recorded | Baseline performed better in this case. |
 
-The supplied summary does not include the original response excerpts or a complete explanation for these scores. Therefore, these examples should be accompanied by the actual scenario and response excerpts in the final repository if those materials can be shared responsibly. The flags should be verified before drawing strong conclusions from them.
 
 ## Findings and interpretation
 
